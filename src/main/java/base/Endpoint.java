@@ -1,3 +1,5 @@
+package base;
+
 import org.springframework.stereotype.Component;
 
 import javax.ws.rs.GET;
